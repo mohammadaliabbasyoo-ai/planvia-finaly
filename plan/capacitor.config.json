@@ -1,0 +1,9 @@
+{
+  "appId": "com.planvia.app",
+  "appName": "Planvia",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
